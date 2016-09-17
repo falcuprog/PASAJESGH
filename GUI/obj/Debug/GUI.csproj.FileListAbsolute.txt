@@ -47,3 +47,6 @@ Z:\PASAJES-20160916T205713Z\PASAJES\GUI\bin\Debug\Misc.pdb
 Z:\PASAJES-20160916T205713Z\PASAJES\GUI\bin\Debug\SECURITY.pdb
 Z:\PASAJES-20160916T205713Z\PASAJES\GUI\bin\Debug\EntityFramework.xml
 Z:\PASAJES-20160916T205713Z\PASAJES\GUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CIALARCONTOP SAS\Source\Repos\PasajesGH\GUI\bin\Debug\GUI.exe.config
+C:\Users\CIALARCONTOP SAS\Source\Repos\PasajesGH\GUI\obj\Debug\GUI.exe
+C:\Users\CIALARCONTOP SAS\Source\Repos\PasajesGH\GUI\obj\Debug\GUI.pdb
