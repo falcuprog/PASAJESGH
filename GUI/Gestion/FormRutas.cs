@@ -18,8 +18,7 @@ namespace GUI.Gestion
     {
 
         private RutasBLL rutBll = new RutasBLL();
-        private CiudadesBLL ciuBll = new CiudadesBLL();
-        private bool hola; 
+        private CiudadesBLL ciuBll = new CiudadesBLL();        
         
         #region MÉTODOS
         public void CleanText(bool est = false)
