@@ -31,7 +31,7 @@ namespace GUI.Gestion
                 }
                 cbxOrigen.SelectedIndex = 0;
                 cbxDestino.SelectedIndex = 0;
-                
+                txtValor.Clear();
 
                 txtId.Focus();
             }
